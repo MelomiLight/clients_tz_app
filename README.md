@@ -17,8 +17,8 @@ base and receive information about customers by phone number.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/yourrepository.git
-   cd yourrepository
+   git clone gh repo clone MelomiLight/clients_tz_app
+   cd clients_tz_app
     ```
 2. **Install dependencies:**
     ```bash
