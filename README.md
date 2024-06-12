@@ -80,6 +80,7 @@ base and receive information about customers by phone number.
 }
 ```
 - `GET api/clients`: Get all clients
+
   **Response**
 ```json
 {
