@@ -73,6 +73,7 @@ base and receive information about customers by phone number.
 {
     "message": "Client found!",
     "data": {
+        "id": 1,
         "phone_number": "270-448-3851",
         "full_name": "Oleta Reilly",
         "accumulated_points": 22
@@ -87,51 +88,61 @@ base and receive information about customers by phone number.
     "message": "Clients found!",
     "data": [
         {
+            "id": 1,
             "phone_number": "270-448-3851",
             "full_name": "Oleta Reilly",
             "accumulated_points": 22
         },
         {
+            "id": 2,
             "phone_number": "650-639-9177",
             "full_name": "Helga Stamm",
             "accumulated_points": 37
         },
         {
+            "id": 3,
             "phone_number": "801-358-1344",
             "full_name": "Mr. Troy Fay",
             "accumulated_points": 54
         },
         {
+            "id": 4,
             "phone_number": "+1-757-619-1498",
             "full_name": "Katrine Upton Sr.",
             "accumulated_points": 86
         },
         {
+            "id": 5,
             "phone_number": "716.271.6301",
             "full_name": "Odessa Bayer",
             "accumulated_points": 59
         },
         {
+            "id": 6,
             "phone_number": "+1 (505) 762-3594",
             "full_name": "Bernhard Schoen",
             "accumulated_points": 79
         },
         {
+            "id": 7,
             "phone_number": "332.934.9720",
             "full_name": "Howard Zieme",
             "accumulated_points": 25
         },
         {
+            "id": 8,
             "phone_number": "520-954-9401",
             "full_name": "Dr. Eve Hand I",
             "accumulated_points": 13
         },
         {
+            "id": 9,
             "phone_number": "+1-817-998-4488",
             "full_name": "Maud Kirlin",
             "accumulated_points": 69
         },
         {
+            "id": 10,
             "phone_number": "+1-254-535-0691",
             "full_name": "Felipa Wilkinson IV",
             "accumulated_points": 69
